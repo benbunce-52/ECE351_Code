@@ -9,3 +9,4 @@ Contained in Repository:
 4. ECE351 Lab 3 Code (.py)
 5. ECE351 Lab 4 Code (.py)
 6. ECE351 Lab 5 Code (.py)
+7. ECE351 Lab 6 Code (.py)
