@@ -14,3 +14,4 @@ Contained in Repository:
 9. ECE351 Lab 8 Code (.py)
 10. ECE351 Lab 9 Code (.py)
 11. ECE351 Lab 10 Code (.py)
+12. ECE351 Lab 11 Code (.py)
